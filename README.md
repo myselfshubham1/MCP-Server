@@ -14,4 +14,4 @@ json format for cursor
 }
 
 in blender 
- go to edit -> preferences -> install from disk -> install addon file -> cmd + n -> blender mcp -> start mcp server 
+ go to edit -> preferences -> install from disk -> install addon file ->  n key -> blender mcp -> start mcp server 
