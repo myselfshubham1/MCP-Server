@@ -1,4 +1,4 @@
-# ITM-hackathon
+# MCP Server 
 
 in cursor go to setting -> mcp -> add mcp server ->  copy the json 
 json format for cursor
